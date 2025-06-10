@@ -2,5 +2,7 @@
 
 In this Project, we evaluate the demographics and punitive measures of Chicago Public Schools along with juvenile incarceration data. 
 
-Yannick's Code is in the repo titled "DataSci Final Project.ipynb"
+Yannick's Code is in the file titled "DataSci Final Project.ipynb"
+Aaliyah's Code is in the file titled "Data_Sci_112_Final_Project 2.ipynb"
+
 
